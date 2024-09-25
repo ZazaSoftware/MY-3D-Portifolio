@@ -1,3 +1,17 @@
+# MY 3D PORTIFOLIO
+
+![WhatsApp Image 2024-09-25 at 14 05 28_84ce511b](https://github.com/user-attachments/assets/eb751c30-4a5b-4756-8ee3-371ba48bde25)
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
