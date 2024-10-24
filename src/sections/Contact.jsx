@@ -58,7 +58,7 @@ const Contact = () => {
 
           showAlert({
             show: true,
-            text: "I didn't receive your message 😢",
+            text: "I didn't receive your message send me a direct email 😢",
             type: 'danger',
           });
         },
